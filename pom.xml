@@ -6,13 +6,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <parent>
 <groupId>org.springframework.boot</groupId>
 <artifactId>spring-boot-starter-parent</artifactId>
-<version>3.0.4</version>
+<version>3.0.5</version>
 <relativePath /> 
 <!-- lookup parent from repository -->
 </parent>
-<groupId>com.duoc</groupId>
+<groupId>com.generation</groupId>
 <artifactId>blogpessoal</artifactId>
-<version>3.0.4</version>
+<version>3.0.5</version>
 <name>Blog Pessoal</name>
 <description>Duoc project</description>
 <properties>
